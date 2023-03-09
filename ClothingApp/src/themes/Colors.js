@@ -1,0 +1,21 @@
+export default {
+    white:"#FFF",
+    gray_text:"#00000080",
+    orange:"#F67952",
+    black:"#000",
+    transparent:"#FBFBFD",
+    pink_10: "#F679521A",
+    black_text:"#230A06",
+    border: "#0000000D",
+    gray:"#7676801F",
+    gray_slider:"#1C1A190D",
+    blue_gray:"#3335470F",
+    gray_text2:"#00060A",
+    pink_button:"#F6795226",
+    green:"#39CE8A",
+    orange_10:"#F679521A",
+    orange_2:"#FFE9E2",
+    orange_7:"#F6795212",
+    green_10:"#87C7B91A",
+    red:"#FF3535"
+}
